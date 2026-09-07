@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#F8F8FA"/>
+  <circle cx="600" cy="315" r="120" fill="#ffffff" opacity="0.95"/>
+  <circle cx="555" cy="285" r="16" fill="#FF6B81"/>
+  <circle cx="645" cy="285" r="16" fill="#FF6B81"/>
+  <path d="M560 350 Q600 390 640 350" stroke="#FF6B81" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <text x="600" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#222222">내 책상 위 작은 행복들</text>
+  <text x="600" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#666666">커뮤니티 대표 이미지</text>
+</svg>
